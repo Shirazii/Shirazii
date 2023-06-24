@@ -1,4 +1,6 @@
 # Hi, I’m Shirazi 😎
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 - 👀 I’m interested in Technology & Reading.
 - 🌱 I’m always learning new Technology.
 - 💞️ I’m looking to collaborate on python, JS, Node.js and React.
