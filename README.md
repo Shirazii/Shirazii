@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shirazii
+# Hi, I’m Shirazi 😎
 - 👀 I’m interested in Technology & Reading.
 - 🌱 I’m always learning new Technology.
 - 💞️ I’m looking to collaborate on python, JS, Node.js and React.
