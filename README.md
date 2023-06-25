@@ -2,9 +2,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 📝 I regularly write articles on [https://medium.com/@shirazi.world](https://medium.com/@shirazi.world)
+- I regularly write blogs about tech on <a href="https://medium.com/@shirazi.world">< link  type = " image/png "  sizes = " 32x32 "  rel = " icon "  href = " .../icons8-blog-32.png " > </a>
 
-- 📄 Know about my experiences <a href="https://shirazicv.netlify.app">Website 🌐  </a>
+- Know more about my experiences <a href="https://shirazicv.netlify.app">🌐  </a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
