@@ -4,7 +4,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@shirazi.world](https://medium.com/@shirazi.world)
 
-- 📄 Know about my experiences [https://shirazicv.netlify.app/](https://shirazicv.netlify.app/)
+- 📄 Know about my experiences <a href="https://shirazicv.netlify.app">Website 🌐  </a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
